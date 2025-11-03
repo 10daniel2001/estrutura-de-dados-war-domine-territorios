@@ -27,7 +27,7 @@
                    int i;                                             // Interio "I" para usar para repetiçao for
                    struct Territorio territorios[5];                  // struct com vetor para repetiçao 
                    
-                   printf("***** INCIO DO CADASTRO DE TERRITORIOS *****\n");            
+                   printf("***** INICIO DO CADASTRO DE TERRITORIOS *****\n");            
 
                    for ( i = 0; i < 5; i++)                                  // For com repetiçao ate 5 
                    {
